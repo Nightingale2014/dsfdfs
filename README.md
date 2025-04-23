@@ -35,10 +35,6 @@
 
 src/ ├── components/ ├── pages/ │ ├── Home.jsx │ ├── Login.jsx ├── style/ │ └── index.css ├── App.jsx └── main.jsx
 
-yaml
-복사
-편집
-
 ---
 
 ## 💬 회고
