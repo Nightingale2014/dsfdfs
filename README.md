@@ -33,7 +33,16 @@
 
 ## 📁 디렉토리 구조
 
-src/ ├── components/ ├── pages/ │ ├── Home.jsx │ ├── Login.jsx ├── style/ │ └── index.css ├── App.jsx └── main.jsx
+src/
+├── components/         # 공통 UI 컴포넌트
+├── pages/              # 페이지 단위 컴포넌트
+├── Home.jsx            # 메인 화면
+├── Login.jsx           # 로그인 화면
+├── style/
+│   └── index.css       # TailwindCSS 설정
+├── App.jsx
+└── main.jsx
+
 
 ---
 
